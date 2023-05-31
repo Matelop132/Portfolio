@@ -115,17 +115,17 @@
             <img src="assets/logo_django.png" width="300px" height="300px">
             </div>
         </article>
-        <article class="Black" onclick="Infra_resau()">
+        <article class="Black" onclick="Infra_reseau()">
             <div>
                 <section>
                 <h1>Bedrock</h1>
-                <p>Dans la continuité du projet précédent, celui-ci est de même l'analyse d'un site marchand avec une proposition de solution afin d'attirer la clientèle.</p>
+                <p>Créer une infrastructure qui héberge l'ensemble des projets imaginés.</p>
                 </section>
                 <button> Se rendre au projet</button>
 
             </div>
             <div>
-            <img src="assets/logo_derive.png" width="450" height="200px">
+            <img src="assets/Infra_reseau/Shema.PNG" height="90%" width="90%">
             </div>
         </article>
         <article class="White" onclick="Proj_Velo()">
@@ -185,6 +185,10 @@
         function Infra_Env(){
             document.location.href = "/infra_env"
         }
+        function Infra_reseau(){
+            document.location.href = "/infra_reseau"
+        }
+
     </script>
 </body>
 </html>

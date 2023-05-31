@@ -28,13 +28,15 @@
     <main>
        <h1>Administration Infrastructure Réseau</h1>
         
-       <p>Pour ce projet, j'ai dû concevoir le site d'une entreprise de promotion de concert, en prenant en compte l'aspect estéthique et facilité d'utilisation.</p>
+       <p>Lors de ce projet, je devais imaginer des idées de projet technique. Comme un site de streaming, une banque d'effets sonores ou autre. Puis je devais mettre en place une infrastructure réseau pour héberger les projets, avec des accès réstreints. Une autre infrastructure de pré-production/production. Je devais imaginer aussi une solution de déploiement des projets.
+
+</p>
        <h2>Quelques images visuelles du projet Raw Ewent:</h2>
 
        <div>
             <article>
                 <label>Schéma de l'infratructure</label>
-                <img src="assets/Infra_reseau/Schema.PNG" height="90%" width="90%">
+                <img src="assets/Infra_reseau/Shema.PNG" height="90%" width="90%">
             </article>
            
        </div>
@@ -42,7 +44,6 @@
        
     <h2>Bloc de compétence:</h2>
     <div>
-            <h2>Bloc de compétence:</h2>
             
             <ul>
                 <h3>Gérer le patrimoine informatique</h3>
@@ -58,7 +59,8 @@
                 <li>Traiter des demandes concernant les services réseau et système, applicatifs</li>
                 
             </ul>
-            
+</div>
+<div>
             <ul>
                 <h3>Développer la présence en ligne de l’organisation</h3>
                 <li>Analyser les objectifs et les modalités d’organisation d’un projet</li>
@@ -72,11 +74,7 @@
             
             </ul>
             
-            <ul>
-                <h3>Mettre à disposition des utilisateurs un service informatique</h3>
-        
-            </ul>
-            
+         
             <ul>
                 <h3>Organiser son développement professionnel</h3>
                 <li>Mettre en place son environnement d’apprentissage personnel</li>

@@ -57,7 +57,9 @@ Route::get('/derive', function () {
 Route::get('/infra_env', function () {
     return view('project/infra_env');
 });
-
+Route::get('/infra_reseau', function () {
+    return view('project/infra_reseau');
+});
 Route::get('/proj_velo', function () {
     return view('project/proj_velo');
 });
