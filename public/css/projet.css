@@ -1,0 +1,26 @@
+.White{
+    color: black
+
+}
+.Black{
+    background-color: grey;
+    color: white;
+}
+
+main article{
+    padding: 10%;
+    display: flex;
+    justify-content: space-between;
+   
+}
+main article div section    
+{
+    margin-top: 5%; 
+    font-size: 25px;
+}
+
+main article div{
+ margin-top: 5%;
+}
+
+  

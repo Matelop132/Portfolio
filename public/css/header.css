@@ -1,0 +1,38 @@
+html{
+    font-family: Courier New, monospace;
+}
+body{
+    margin: 0;
+    padding: 0; 
+    
+}
+header{
+  text-align: center;
+  justify-content: space-between;
+  display: flex;
+  background-color:black;
+  color: white;
+  
+}
+header a{
+    text-decoration: none;
+    color: white;
+}
+header a:hover{
+    border-radius: 15px;
+    background-color: grey;
+}
+header img{
+     height: 35px  ;
+}
+header li{
+    margin: 15px;
+    list-style: none;
+    display: flex;
+    
+}
+header div{
+    display: flex;
+    margin: 1%;
+    
+}

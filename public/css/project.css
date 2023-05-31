@@ -1,0 +1,5 @@
+main div ul{
+    border: solid 1px lightgrey;
+    margin: 1%;
+    justify-content: space-between;
+}

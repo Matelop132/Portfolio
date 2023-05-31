@@ -1,0 +1,10 @@
+main {
+    text-align: center;
+}
+main div{
+    display: flex;
+    justify-content: space-between;
+}
+main div article a{
+    list-style: none;
+}
